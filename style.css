@@ -1,0 +1,27 @@
+.jumbotron {
+  padding-top: 2rem;
+}
+#About {
+  background-color: #ffff;
+}
+body {
+  background: linear-gradient(#9a08dd 0%, #dd4c4f 40%, #7420d3 100%);
+}
+#Contact {
+  background-color: #ffff;
+}
+#Footer {
+  background: linear-gradient(#ffffffea 0%, #ffffff9c 40%, #ffffff00 100%);
+}
+h8 {
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+}
+.jumbotron h1 {
+  color: white;
+}
+.jumbotron p {
+  color: white;
+}
+#projects :-moz-submit-invalid {
+  background: linear-gradient(#ffffffea 0%, #ffffff9c 40%, #ffffff00 100%);
+}
